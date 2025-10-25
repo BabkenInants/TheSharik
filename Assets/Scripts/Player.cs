@@ -7,7 +7,7 @@ public class Player : MonoBehaviour
 
     #region publicVariables
 
-    public GameObject[] coins; //up down left right
+    public GameObject[] coins;
     [Header("Animators")]
     public Animator buttonsAnim;
     public Animator anim;
