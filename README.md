@@ -11,5 +11,9 @@ Tapping the Screen.
 
 https://github.com/user-attachments/assets/bf6e5b80-7b77-4462-853c-4e0c6485636e
 
+## WEBGL
+https://play.unity.com/en/games/2ae36fb0-768a-4510-b5c7-7c54ac9a33f1/the-sharik
+P.S. The Game was designed for portrait orientation, so please try it on your phone.
+
 ## Contacts
 inantsbabken@gmail.com
